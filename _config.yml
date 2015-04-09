@@ -1,10 +1,10 @@
-url: https://hakanu.github.io/deniz
-baseurl: ""
+url: https://hakanu.github.io
+baseurl: "/deniz/"
 
 # Site settings
 title: Cookmate
 email: info@cookmate.com
-description: "Yemek yapmanın hızlı ve keyifli yolu. Ölçülmüş, ayıklanmış doğranmış taptaze malzemeler, yaratıcı tarfiler, her hafta kapınızda."
+description: "Yemek yapmanın hızlı ve keyifli yolu."
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
